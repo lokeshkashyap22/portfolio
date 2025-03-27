@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.lokeshkashyap.me"),
-  title: "Lokesh Kashyap | Portfolio",
+  title: "Lokesh Kashyap | Software Engineer",
   description:
     "Welcome to the portfolio of Lokesh Kashyap, a seasoned web developer and software engineer based in New Delhi. Discover innovative projects, insightful blog posts, and a professional journey in technology.",
   authors: [{ name: "Lokesh Kashyap" }],
