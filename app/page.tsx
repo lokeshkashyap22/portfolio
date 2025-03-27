@@ -5,7 +5,7 @@ const Home = () => {
     <div className="flex justify-center items-center min-h-screen">
       <Image
         src={"/assets/coming-soon.png"}
-        alt="Lokesh Kashyap"
+        alt="Coming Soon"
         width={300}
         height={300}
       />
