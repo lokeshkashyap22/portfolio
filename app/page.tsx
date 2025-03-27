@@ -1,7 +1,14 @@
+import Image from "next/image";
+
 const Home = () => {
   return (
-    <div>
-      <h1 className="text-2xl text-yellow-600 font-bold">Home</h1>
+    <div className="flex justify-center items-center min-h-screen">
+      <Image
+        src={"/assets/coming-soon.png"}
+        alt="Lokesh Kashyap"
+        width={300}
+        height={300}
+      />
     </div>
   );
 };
